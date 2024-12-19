@@ -28,9 +28,6 @@ Welcome to my GitHub profile! I am a passionate developer with a love for coding
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-
-![Chuina12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuina12&show_icons=true&theme=dark)
 
 ## 📆 Contributions in 2024
 
