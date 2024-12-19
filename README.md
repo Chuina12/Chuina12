@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a passionate developer with a love for coding
 - 👯 I’m looking to collaborate on **AI projects, Django applications, and frontend development**
 - 🤔 I’m looking for help with **advanced AI algorithms and large-scale web applications**
 - 💬 Ask me about **Python, Django, AI, JavaScript, HTML, CSS, Bootstrap, Odoo, HTMX, Ubuntu Server**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/thierry-dev-aa3408303)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/thierry-dev-aa3408303)** 
 - 📧 Email: **thierryngangoum127@gmail.com** or **thierry.devp@gmail.com**
 - ⚡ Fun fact: **I love exploring new AI technologies and their applications**
 
