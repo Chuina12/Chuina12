@@ -32,6 +32,11 @@ Welcome to my GitHub profile! I am a passionate developer with a love for coding
 
 ![Chuina12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chuina12&show_icons=true&theme=dark)
 
+## 📆 Contributions in 2024
+
+- 💻 Over 200 commits
+- ⭐ 4 contributions to open-source projects
+
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/thierry-dev-aa3408303/)
