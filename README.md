@@ -18,7 +18,7 @@ I’m passionate about clean architecture, automation, cloud infrastructure, and
 - ⚙️ Experienced with **Docker**, **Linux Servers**, and production deployments
 - 🔄 Developing workflow automation solutions using **n8n**
 - 💬 Ask me about **Django**, **DRF**, **AI Agents**, **RAG Systems**, **AWS**, **Docker**, or **Backend Architecture**
-- 📍 Based in **Dubai, UAE**
+
 
 ---
 
