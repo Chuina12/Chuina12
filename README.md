@@ -88,7 +88,7 @@ I’m passionate about clean architecture, automation, cloud infrastructure, and
 - Automated deployments through CI/CD pipelines
 - Optimized PostgreSQL and MySQL databases for performance and scalability
 
-### AI & LLM Systems Engineer — Dubai, UAE (2025 – Present)
+### AI & LLM Systems Engineer —  (2025 – Present)
 
 - Design and deploy AI-powered enterprise applications
 - Build Retrieval-Augmented Generation (RAG) systems using vector search and embeddings
